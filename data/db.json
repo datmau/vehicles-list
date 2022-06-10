@@ -1,0 +1,96 @@
+{
+  "company": [
+    {
+      "name": "Bernier - McCullough",
+      "city": 1,
+      "status": "active",
+      "plan_type": "base",
+      "creation_date": "2022-06-08T07:59:26.125Z",
+      "id": "1"
+    },
+    {
+      "name": "Dicki - Schmeler",
+      "city": 3,
+      "status": "inactive",
+      "plan_type": "premium",
+      "creation_date": "2022-06-07T20:22:46.155Z",
+      "id": "2"
+    }
+  ],
+  "driver": [
+    {
+      "company_id": 1,
+      "city": 3,
+      "first_name": "Miles",
+      "lastname": "Robel",
+      "email": "Emilia.Reinger@yahoo.com",
+      "phone": "(931) 818-7563 x984",
+      "avatar_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1149.jpg",
+      "status": "status 1",
+      "creation_date": "2022-06-08T20:50:07.356Z",
+      "id": "1"
+    },
+    {
+      "company_id": 2,
+      "city": 1,
+      "first_name": "Sibyl",
+      "lastname": "Reynolds",
+      "email": "Vivienne13@gmail.com",
+      "phone": "923.696.9939",
+      "avatar_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/893.jpg",
+      "status": "status 2",
+      "creation_date": "2022-06-08T08:52:55.783Z",
+      "id": "2"
+    },
+    {
+      "company_id": 1,
+      "city": 1,
+      "first_name": "Sibyl",
+      "lastname": "Reynolds",
+      "email": "Vivienne13@gmail.com",
+      "phone": "923.696.9939",
+      "avatar_url": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/893.jpg",
+      "status": "status 2",
+      "creation_date": "2022-06-08T08:52:55.783Z",
+      "id": "2"
+    }
+  ],
+  "vehicle": [
+    {
+      "driver_id": 1,
+      "plate": "UO65PID",
+      "model": "Golf",
+      "type": "Passenger Van",
+      "capacity": "capacity 1",
+      "creation_date": "2022-06-08T02:30:56.029Z",
+      "id": "1"
+    },
+    {
+      "driver_id": 2,
+      "plate": "MZ08IEN",
+      "model": "Sentra",
+      "type": "Hatchback",
+      "capacity": "capacity 2",
+      "creation_date": "2022-06-08T16:46:51.553Z",
+      "id": "2"
+    },
+    {
+      "driver_id": 3,
+      "plate": "EA38HFW",
+      "model": "CTS",
+      "type": "Wagon",
+      "capacity": "capacity 3",
+      "creation_date": "2022-06-08T17:31:20.854Z",
+      "id": "3"
+    },
+    {
+      "driver_id": 1,
+      "plate": "SP55DTX",
+      "model": "Taurus",
+      "type": "Passenger Van",
+      "capacity": "capacity 4",
+      "creation_date": "2022-06-08T07:42:46.971Z",
+      "id": "4"
+    }
+  ]
+}
